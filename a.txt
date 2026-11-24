@@ -1,8 +1,12 @@
 first line
 second line
 just testing.
+fourth line
+fifth line
+
 adding new line
 last line
+
 new line
 adding !!!
 
